@@ -9,7 +9,7 @@ This repository contains a Slim Framework Flash messages service provider. This 
 Via Composer
 
 ``` bash
-$ composer require slim/flash
+$ composer require krotovic/slim-flash
 ```
 
 Requires Slim 3.0.0 or newer.
