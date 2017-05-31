@@ -1,6 +1,6 @@
 # Slim Framework Flash Messages
 
-[![Build Status](https://travis-ci.org/slimphp/Slim-Flash.svg?branch=master)](https://travis-ci.org/slimphp/Slim-Flash)
+[![Build Status](https://travis-ci.org/krotovic/Slim-Flash.svg?branch=master)](https://travis-ci.org/krotovic/Slim-Flash)
 
 This repository contains a Slim Framework Flash messages service provider. This enables you to define transient messages that persist only from the current request to the next request.
 
